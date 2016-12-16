@@ -1,13 +1,32 @@
 body {
   max-width: 700px;
-  margin: 0 auto;
+  margin: 3em auto;
+
 }
 
 p {
-  font-size: 4em;
-  text-align: center;
+  font-size: 2.2em;
+  line-height: 1.4;
+  font-family: Times, 'Libre Baskerville','Gentium Basic', serif;
+  color: #111111;
+  padding: 0 0.5em;
 }
 
 video {
-  width: 21em;
+  width: 100%;
 }
+
+img {
+  width: 75px;
+  padding: 0 0.5em;
+}
+
+/*body {
+  margin: 2em auto 0;
+  max-width: 700px;
+}
+
+p {
+  font-size: 2em;
+  line-height: 1.5;
+}*/
